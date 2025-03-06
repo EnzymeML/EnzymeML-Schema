@@ -1,10 +1,5 @@
-# EnzymeML schema definition
-_**Authors**_:      [Jan Range](https://github.com/JR-1991)<br>
-_**Repository**_:   https://github.com/EnzymeML/EnzymeML-Schema<br>
-_**Issue tracker**_: https://github.com/EnzymeML/EnzymeML-Schema/issues<br>
+# Archived Repository
 
-This repositoriy hosts the EnzymeML schema definition.
-  
----------------------------------------
+🚨 **This repository is no longer maintained and has been archived.** 🚨  
 
-<img src="http://enzymeml.org/images/logo/enzymeml.jpg" width="250" />
+The project has moved to a new repository. You can find the latest version and updates at **[`enzymeml-specifications`](https://github.com/EnzymeML/enzymeml-specifications)**. 
